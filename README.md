@@ -16,9 +16,20 @@ at a larger range of stocks in the future.
 
 ## Results
 #### Stock Analysis
+![Stock_Comparison](https://user-images.githubusercontent.com/95381303/149684607-c833599a-0117-4c01-afb9-96ab1c677882.png)
 
 
 
 
 
+#### Refactoring Runtimes
+##### Original Code Runtimes
+
+
+##### Refactored Code Runtimes
+
+
+## Summary
 #### Refactoring Analysis
+
+

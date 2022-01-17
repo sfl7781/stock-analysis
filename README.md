@@ -1,7 +1,6 @@
 # Refactoring VBA Code for Stock Analysis 
 
 ## Overview of Project
-
 #### Purpose
 An excel file was created with macros to assist Steve in his analysis of 12 stocks. Later Steve
 discloses that he may want to expand the data in his analysis exponentially. I found that the
@@ -14,3 +13,12 @@ assisting his parents with analysis on green energy stock for invesment purposes
 interests lies in only 1 particular green energy stock he has selected an additional 11 for
 comparison analysis. After some review Steve loves the file but discloses he may want to look
 at a larger range of stocks in the future.
+
+## Results
+#### Stock Analysis
+
+
+
+
+
+#### Refactoring Analysis

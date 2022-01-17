@@ -35,15 +35,11 @@ at a larger range of stocks in the future.
 
 ## Summary
 #### Refactoring Analysis
- The advantages of refactoring                           
-  - reducing the time it takes to run the code
-  - clear clutter ; more easily read
-  - can expand to include more data making it less specific and more useful         
- 
- The disadvantages of refactoring 
-  - can possibly create more errors: bug fixes
-  - can be time consuming; especially with inexperience
+Refactoring code has its advantages and disadvantages. It can reduce the time it takes to run the code and clear clutter so it can be more easily read. Not only by you but other
+as well. You can also refactor to include more data, making it less specific and more useful. And at times can be used to fix errors in the original code, optimizing its overall  efficiency. The disadvantages can be the opposite where, more errors are created. It can also be more time consuming, especially with inexperience. 
 
+In this scenario refactoring was an enhancement. You can see by the 'Original and Refactored' runtimes for 2017 and 2018 above they were reduced. The original code had a nested loop which required the script to go through each row of data to identify each ticker over and over. In the new code a ticker index was created with 3 output arrays and removing the nested loop which allowed the code to run faster as the script now only has to go through each row once, cutting down the runtime.         
+ 
 
 
 

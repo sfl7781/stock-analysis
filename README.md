@@ -29,6 +29,7 @@ at a larger range of stocks in the future.
 #### Refactoring Runtimes
 ##### Original Code 
 ![green_stocks2017](https://user-images.githubusercontent.com/95381303/149685157-6888df0b-4e32-43ff-9cdc-17c4e08a2262.png) ![green_stocks2018](https://user-images.githubusercontent.com/95381303/149685158-96ce0a73-b335-4dcd-aa80-3f95a56d5656.png)
+![image](https://user-images.githubusercontent.com/95381303/149690043-2d96d9a6-8d48-4646-966f-20aed6c4b56f.png)
 
 ##### Refactored Code 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/95381303/149685174-58ec0d94-e0f2-48e5-bfc6-08a4c935942d.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95381303/149685175-326d6148-3c7f-40ce-a3a1-6fd8d9f03f9b.png)
@@ -38,7 +39,7 @@ at a larger range of stocks in the future.
 Refactoring code has its advantages and disadvantages. It can reduce the time it takes to run the code and clear clutter so it can be more easily read. Not only by you but other
 as well. You can also refactor to include more data, making it less specific and more useful. And at times can be used to fix errors in the original code, optimizing its overall  efficiency. The disadvantages can be the opposite where, more errors are created. It can also be more time consuming, especially with inexperience. 
 
-In this scenario refactoring was an enhancement. You can see by the 'Original and Refactored' runtimes for 2017 and 2018 above they were reduced. The original code had a nested loop which required the script to go through each row of data to identify each ticker over and over. In the new code a ticker index was created with 3 output arrays and removing the nested loop which allowed the code to run faster as the script now only has to go through each row once, cutting down the runtime.         
+In this scenario refactoring was an enhancement. It can be seen by the 'Original and Refactored' runtimes for 2017 and 2018 above, they were reduced. The original code had a nested loop which required the script to go through each row of data to identify each ticker over and over. In the new code a ticker index was created with 3 output arrays and the nested loop was removed allowing the code to run faster as the script now only has to go through each row once, cutting down the runtime.         
  
 
 

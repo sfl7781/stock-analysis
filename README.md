@@ -17,12 +17,12 @@ at a larger range of stocks in the future.
 ## Results
 #### Stock Analysis
 ![Stock_Comparison](https://user-images.githubusercontent.com/95381303/149684607-c833599a-0117-4c01-afb9-96ab1c677882.png)
-- Steve's parents wanted to invest in DAQO stock (Ticker:DQ ; higlighted in blue)
-	- 'DQ' looked great in 2017 but an investment then would have resulted in a complete loss in 2018
+- Steve's parents wanted to invest in DAQO stock (Ticker:DQ ; higlighted in blue).
+	- 'DQ' looked great in 2017 but an investment then would have resulted in a complete loss in 2018.
 - 'RUN' with only a small return would have been the best investment as it was the only stock to
-  to increase exponentially in 2018
-- Outside of 'RUN' & 'ENPH', which did tank by over 47% in 2018 all of these options Steve chose
- would not have been good investments based on the range of data
+  increase exponentially in 2018.
+- Outside of 'RUN' & 'ENPH', which did tank by over 47% in 2018, all of these options Steve chose
+ would not have been good investments based on the range of data.
 - Steve was right to believe he would need to potentially expand his dataset.
 
 

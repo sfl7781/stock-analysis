@@ -33,13 +33,13 @@ at a larger range of stocks in the future.
 
 ##### Refactored Code 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/95381303/149685174-58ec0d94-e0f2-48e5-bfc6-08a4c935942d.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95381303/149685175-326d6148-3c7f-40ce-a3a1-6fd8d9f03f9b.png)
+![Refactored_Stocks_Code](https://user-images.githubusercontent.com/95381303/149690417-44486163-e6c9-4180-a9c3-561606815be6.png)
 
 ## Summary
 #### Refactoring Analysis
-Refactoring code has its advantages and disadvantages. It can reduce the time it takes to run the code and clear clutter so it can be more easily read. Not only by you but other
-as well. You can also refactor to include more data, making it less specific and more useful. And at times can be used to fix errors in the original code, optimizing its overall  efficiency. The disadvantages can be the opposite where, more errors are created. It can also be more time consuming, especially with inexperience. 
+Refactoring code has its advantages and disadvantages. It can reduce the time it takes to run the code and clear clutter so it can be more easily read. Not only by the coder but others as well. Refactoring can also be used to include a larger dataset, making it less specific and more useful. And at times can be used to fix errors in the original code, optimizing its overall efficiency. The disadvantages can be the opposite where more errors are created and something gets broken in the code. It can also be more time consuming, especially with inexperience. 
 
-In this scenario refactoring was an enhancement. It can be seen by the 'Original and Refactored' runtimes for 2017 and 2018 above, they were reduced. The original code had a nested loop which required the script to go through each row of data to identify each ticker over and over. In the new code a ticker index was created with 3 output arrays and the nested loop was removed allowing the code to run faster as the script now only has to go through each row once, cutting down the runtime.         
+In this scenario refactoring was an enhancement. It can be seen by the 'Original and Refactored' runtimes for 2017 and 2018 above, they were reduced by a good amount. The original code had a nested loop which required the script to go through each row of data to identify each ticker over and over. In the new code a ticker index was created with 3 output arrays and the nested loop was removed allowing the code to run faster as the script now only has to go through each row once, cutting down the execution time.         
  
 
 

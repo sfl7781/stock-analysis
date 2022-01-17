@@ -24,10 +24,11 @@ at a larger range of stocks in the future.
 
 #### Refactoring Runtimes
 ##### Original Code Runtimes
+![green_stocks2017](https://user-images.githubusercontent.com/95381303/149685157-6888df0b-4e32-43ff-9cdc-17c4e08a2262.png) ![green_stocks2018](https://user-images.githubusercontent.com/95381303/149685158-96ce0a73-b335-4dcd-aa80-3f95a56d5656.png)
 
 
 ##### Refactored Code Runtimes
-
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/95381303/149685174-58ec0d94-e0f2-48e5-bfc6-08a4c935942d.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/95381303/149685175-326d6148-3c7f-40ce-a3a1-6fd8d9f03f9b.png)
 
 ## Summary
 #### Refactoring Analysis

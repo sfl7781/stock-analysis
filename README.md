@@ -26,7 +26,7 @@ at a larger range of stocks in the future.
 - Steve was right to believe he would need to potentially expand his dataset.
 
 
-#### Refactoring Runtimes
+#### Refactoring Runtimes & Code
 ##### Original Code 
 ![green_stocks2017](https://user-images.githubusercontent.com/95381303/149685157-6888df0b-4e32-43ff-9cdc-17c4e08a2262.png) ![green_stocks2018](https://user-images.githubusercontent.com/95381303/149685158-96ce0a73-b335-4dcd-aa80-3f95a56d5656.png)
 ![image](https://user-images.githubusercontent.com/95381303/149690043-2d96d9a6-8d48-4646-966f-20aed6c4b56f.png)
